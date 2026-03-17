@@ -2,46 +2,31 @@
 
 Welcome to my GitHub profile.
 
-I am a versatile software engineer with a broad range of experience in software development. My expertise covers web development, backend systems, mobile applications, automation, and data-driven solutions. I am committed to building robust, scalable, and user-friendly applications and constantly seek out opportunities to learn, improve, and contribute to the open-source community.
+I am a versatile software engineer with experience in building robust web platforms, scalable backend systems, and mobile applications. My work spans personal and organizational projects across a wide and modern tech stack. I am passionate about code quality, collaboration, and using technology to solve real-world problems.
 
 ## Skills and Technologies
 
-Languages: JavaScript, TypeScript, Python, Dart, C++, Ruby, CSS, HTML  
-Frameworks and Libraries: React, Node.js, Flutter  
-DevOps and Tools: Docker, Git, CI/CD, AWS  
-Other Domains: Automation scripting, mobile development, data analysis, basic machine learning
+Languages: JavaScript, TypeScript, Python, Dart, Ruby, C++, HTML, CSS, PLpgSQL, Kotlin, Swift, Shell  
+Frameworks and Libraries: React Native, React, Node.js, Ruby on Rails, Docker  
+Platforms: Web, Mobile (cross-platform)
 
-I contribute to public and private projects and am actively involved in open-source development across several repositories and tech communities.
+## Highlighted Projects
 
-## Projects
+- [Ignisplay](https://github.com/Ph4nt0mByte/ignisplay)  
+  A movie streaming and discovery mobile app.  
 
-Highlighted projects from my portfolio include:
+- [Habit Tracker](https://github.com/Ph4nt0mByte/Habit-tracker)  
+  Productivity application to help users build better habits and routines.
 
-- [Advanced-shoe-store](https://github.com/Ph4nt0mByte/Advanced-shoe-store):  
-  Modern e-commerce application with advanced shopping features.
+- [NBA Prediction](https://github.com/Ph4nt0mByte/NBA-PREDICTION)  
+  A machine learning project for NBA game outcome prediction.
 
-- [Habit-tracker](https://github.com/Ph4nt0mByte/Habit-tracker):  
-  Habit tracking and self-improvement application.
+- [Delivery_base (delivery-application-basic/Delivery_base)](https://github.com/delivery-application-basic/Delivery_base)  
+  A foundational delivery platform with a React Native frontend and Node.js backend.  
 
-- [Minigit](https://github.com/Ph4nt0mByte/Minigit):  
-  Minimal implementation of core Git concepts using C++.
+- [Bits Study (SuraNega/bits_study)](https://github.com/SuraNega/bits_study)  
+  Web-based application for collaborative studying and note management (also known as Study Crew).  
 
-- [leadgenerator](https://github.com/Ph4nt0mByte/leadgenerator):  
-  Automation tool for lead generation and management, built in TypeScript.
+## Additional Projects & Contributions
 
-- [NBA-PREDICTION](https://github.com/Ph4nt0mByte/NBA-PREDICTION):  
-  Machine learning project for predicting NBA game outcomes using Python.
-
-- [auto-dailer-app](https://github.com/Ph4nt0mByte/auto-dailer-app):  
-  Cross-platform automated dialing application written in Dart.
-
-Other notable work includes projects on portfolio websites, task management, finance automation, and contributions to public open-source repositories.
-
-## Contact
-
-Feel free to connect with me or review my work.  
-GitHub: https://github.com/Ph4nt0mByte  
-Email: [your-email@example.com]  
-Personal website or portfolio: [your-website-here]
-
-I am open to collaboration, learning opportunities, and meaningful discussions in the software engineering space. 🌱
+- Task automation tools, portfolio sites, backend APIs, and contributions in diverse open-source/organizational codebases.
