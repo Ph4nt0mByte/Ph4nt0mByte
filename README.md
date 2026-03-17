@@ -1,4 +1,4 @@
-# Ph4nt0mByte 👨‍💻
+# Nebeyu Essayas 👨‍💻
 
 Welcome to my GitHub profile.
 
